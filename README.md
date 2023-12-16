@@ -1,2 +1,5 @@
-# computer_vision
-Some task abount Computer Vision
+# Computer Vision course activities
+
+### Aluno: Tayco Murilo Santos Rodrigues
+### Curso: Engenharia de Computação
+### Matricula: 17211250
